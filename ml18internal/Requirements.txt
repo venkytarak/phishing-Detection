@@ -1,0 +1,12 @@
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Matplotlib
+5. Plotly
+6.tensorflow
+7.flask
+8.feature
+9.url_features
+10.sklearn
+11.imblearn
+12.pickel
